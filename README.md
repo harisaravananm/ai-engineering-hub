@@ -10,7 +10,7 @@
 
 ---
 
-# AI Engineering Hub ðŸš€
+# AI Engineering Hub 🚀
 
 <!-- tech-version-badges -->
 ![Python 3.x](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white) ![MCP Servers](https://img.shields.io/badge/MCP-Servers-6A1B9A?style=for-the-badge) ![Docker Containers](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -18,7 +18,7 @@
 
 Welcome to the **AI Engineering Hub** - your comprehensive resource for learning and building with AI!
 
-## ðŸŒŸ Why This Repo?
+## 🌟 Why This Repo?
 
 AI Engineering is advancing rapidly, and staying at the forefront requires both deep understanding and hands-on experience. Here, you will find:
 - **93+ Production-Ready Projects** across all skill levels
@@ -30,7 +30,7 @@ Whether you're a beginner, practitioner, or researcher, this repo provides resou
 
 ---
 
-## ðŸ“‹ Table of Contents
+## 📋 Table of Contents
 
 - [Getting Started](#-getting-started)
 - [Newsletter](#-stay-updated-with-our-newsletter)
@@ -43,7 +43,7 @@ Whether you're a beginner, practitioner, or researcher, this repo provides resou
 
 ---
 
-## ðŸŽ¯ Getting Started
+## 🎯 Getting Started
 
 New to AI Engineering? Start here:
 
@@ -54,17 +54,17 @@ New to AI Engineering? Start here:
 
 ---
 
-## ðŸ“¬ Stay Updated with Our Newsletter!
+## 📬 Stay Updated with Our Newsletter!
 
-**Get a FREE Data Science eBook** ðŸ“– with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
+**Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
 
 [![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
 
 ---
 
-## ðŸŽ“ Projects by Difficulty
+## 🎓 Projects by Difficulty
 
-### ðŸŸ¢ Beginner Projects
+### 🟢 Beginner Projects
 
 Perfect for getting started with AI engineering. These projects focus on single components and straightforward implementations.
 
@@ -102,7 +102,7 @@ Perfect for getting started with AI engineering. These projects focus on single 
 
 ---
 
-### ðŸŸ¡ Intermediate Projects
+### 🟡 Intermediate Projects
 
 Multi-component systems, agentic workflows, and advanced features for experienced practitioners.
 
@@ -150,7 +150,7 @@ Multi-component systems, agentic workflows, and advanced features for experience
 - [**MCP Voice Agent**](./mcp-voice-agent) - Voice agent with Firecrawl and Supabase
 - [**SDV MCP**](./sdv-mcp) - Synthetic Data Vault orchestration
 - [**KitOps MCP**](./kitops-mcp) - ML model management with KitOps
-- [**Stagehand Ã— MCP-Use**](./stagehand%20x%20mcp-use) - Web automation with Stagehand MCP
+- [**Stagehand × MCP-Use**](./stagehand%20x%20mcp-use) - Web automation with Stagehand MCP
 
 #### Model Comparison & Evaluation
 - [**Evaluation and Observability**](./eval-and-observability) - E2E RAG evaluation with CometML Opik
@@ -164,7 +164,7 @@ Multi-component systems, agentic workflows, and advanced features for experience
 
 ---
 
-### ðŸ”´ Advanced Projects
+### 🔴 Advanced Projects
 
 Complex systems, fine-tuning, production deployments, and cutting-edge implementations.
 
@@ -202,7 +202,7 @@ Complex systems, fine-tuning, production deployments, and cutting-edge implement
 
 ---
 
-## ðŸ“¢ Contribute to the AI Engineering Hub!
+## 📢 Contribute to the AI Engineering Hub!
 
 We welcome contributors! Whether you want to add new tutorials, improve existing code, or report issues, your contributions make this community thrive. Here's how to get involved:
 
@@ -214,14 +214,14 @@ Check out our [contributing guidelines](CONTRIBUTING.md) for more details.
 
 ---
 
-## ðŸ“œ License
+## 📜 License
 
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## ðŸ’¬ Connect
+## 💬 Connect
 
 For discussions, suggestions, and more, feel free to [create an issue](https://github.com/patchy631/ai-engineering/issues) or reach out directly!
 
-**Happy Coding!** ðŸŽ‰
+**Happy Coding!** 🎉
